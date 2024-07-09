@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alert-Mobile-App", "Alert-Mobile-App\Alert-Mobile-App.csproj", "{B389B62B-5154-48B3-B3A1-1A1DD8F415FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B389B62B-5154-48B3-B3A1-1A1DD8F415FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B389B62B-5154-48B3-B3A1-1A1DD8F415FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B389B62B-5154-48B3-B3A1-1A1DD8F415FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B389B62B-5154-48B3-B3A1-1A1DD8F415FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55059954-A253-4582-BE0D-FF79647267D2}
+	EndGlobalSection
+EndGlobal
